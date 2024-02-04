@@ -28,12 +28,13 @@ cd vietnamese_currency_recognition
 To run this project, you will need to download and unzip the dataset and the weight of model to above directory.
 
 Link to dataset: 
-`API_KEY`
+`https://drive.google.com/file/d/17QH9qu_hK9XB2o33c3x3wG4AEqdyGtzV/view?usp=sharing`
 
 Link to weight:
-`ANOTHER_API_KEY`
+`https://drive.google.com/file/d/17QH9qu_hK9XB2o33c3x3wG4AEqdyGtzV/view?usp=sharing`
 
 After extracting to folder, we should have a folder like this
+
 ![GitHub Logo](https://github.com/NeedAvailableName/Computer-Vision/blob/master/Screenshot%202024-02-02%20115545.png?raw=true)
 
 
