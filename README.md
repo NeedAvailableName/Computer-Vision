@@ -28,7 +28,7 @@ cd vietnamese_currency_recognition
 To run this project, you will need to download and unzip the dataset and the weight of model to above directory.
 
 Link to dataset: 
-`https://drive.google.com/file/d/17QH9qu_hK9XB2o33c3x3wG4AEqdyGtzV/view?usp=sharing`
+`https://drive.google.com/file/d/13CXop9paHYP97l1Ne5OFDEdws7APz6Iw/view?usp=sharing`
 
 Link to weight:
 `https://drive.google.com/file/d/17QH9qu_hK9XB2o33c3x3wG4AEqdyGtzV/view?usp=sharing`
